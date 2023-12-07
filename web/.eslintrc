@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "@antfu"
+  ],
+  "rules": {
+    "no-useless-catch": "off",
+    "no-async-promise-executor": "off",
+    "@typescript-eslint/ban-types": "off",
+    "vue/one-component-per-file": "off"
+  }
+}
